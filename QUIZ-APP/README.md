@@ -1,1 +1,1 @@
-This is a simple quiz app run on flusk
+This is a simple quiz app run on Flask
